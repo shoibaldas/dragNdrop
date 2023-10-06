@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+.card-body {
+  padding: 32px;
+}
+
+.label {
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+
+.embedStyle{
+  position: relative;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.inputStyle{
+  width: 99%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.textAreaStyle {
+  width: 99%;
+  margin-bottom : 10px;
+  padding: 5px;
+}
+
+.deleteIconStyle {
+  cursor: pointer;
+  color : red;
+  position: absolute;
+  top: 7px;
+  right: 10px;
+}
